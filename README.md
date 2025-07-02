@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://kaggle.com/ugurrucr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ugurrucr" height="30" width="40" /></a>
 <a href="https://instagram.com/ugurrucr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ugurrucr" height="30" width="40" /></a>
-<a href="[https://instagram.com/ugurrucr](https://www.linkedin.com/in/u%C4%9Fur-can-u%C3%A7ar-210061227/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="ugurrucr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/uğur-can-uçar-210061227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uğur-can-uçar-210061227" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
